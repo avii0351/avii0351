@@ -1,4 +1,9 @@
 [![An image of @avii0351's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avii0351)](https://holopin.io/@avii0351)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Avnish Kumar's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <h1 align="center">Hi 👋, I'm Avnish kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
